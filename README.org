@@ -12,9 +12,9 @@
 Practical exercises as part of the lecture\\
 Department for Biology, University of Freiburg
 
-Date: 2011-02\\
-Tutor: Julian Gehring\\
-Language: English
+- Date :: 2011-02
+- Tutor :: Julian Gehring
+- Language :: English
 
 [[file:teaching/systems-biology_timmer_2011_chemotaxis_exercise.pdf][Modeling a chemotaxis system]]
 
@@ -24,9 +24,9 @@ Language: English
 Practical exercises as part of the lecture\\
 Department for Biology, University of Freiburg
 
-Date: 2011-02, 2010-01\\
-Tutors: Julian Gehring, Marcel Mischnik (2011), Raphael Engesser (2010)\\
-Language: English
+- Date :: 2011-02, 2010-01
+- Tutors :: Julian Gehring, Marcel Mischnik (2011), Raphael Engesser (2010)
+- Language :: English
 
 [[file:teaching/systems-biology_timmer_2011_parameter-estimation_exercise.pdf][Parameter estimation]]
 
@@ -36,9 +36,9 @@ Language: English
 Practical exercises as part of the lecture\\
 Institute of Physics, University of Freiburg
 
-Date: 2010-04 -- 2010-07\\
-Tutors: Stefan Jansen, Daniel Kaschek, Julian Gehring\\
-Language: German
+- Date :: 2010-04 -- 2010-07
+- Tutors :: Stefan Jansen, Daniel Kaschek, Julian Gehring
+- Language :: German
 
 - [[file:teaching/mathematical-biology_timmer_2010_exercise-00.pdf][Einführung in R]]
 - [[file:teaching/mathematical-biology_timmer_2010_exercise-01.pdf][Lotka-Volterra System]]
@@ -57,8 +57,8 @@ Language: German
 Practical course\\
 Department for Biology, University of Freiburg
 
-Date: 2008-08\\
-Tutor: Julian Gehring\\
-Language: German
+- Date :: 2008-08
+- Tutor :: Julian Gehring
+- Language :: German
 
 Data analysis of EEG/ECoG data
