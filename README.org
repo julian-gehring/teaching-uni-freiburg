@@ -10,9 +10,9 @@
 * Introduction to Systems Biology
 
 Practical exercises as part of the lecture\\
-Department for Biology, University of Freiburg\\
-2011-02
+Department for Biology, University of Freiburg
 
+Date: 2011-02\\
 Tutor: Julian Gehring\\
 Language: English
 
@@ -22,9 +22,9 @@ Language: English
 * Mathematics for Bioinformatics and Systems Biology
   
 Practical exercises as part of the lecture\\
-Department for Biology, University of Freiburg\\
-2011-02, 2010-01
+Department for Biology, University of Freiburg
 
+Date: 2011-02, 2010-01\\
 Tutors: Julian Gehring, Marcel Mischnik (2011), Raphael Engesser (2010)\\
 Language: English
 
@@ -34,9 +34,9 @@ Language: English
 * From Mathematical Biology to Systems Biology
 
 Practical exercises as part of the lecture\\
-Institute of Physics, University of Freiburg\\
-2010-04 -- 2010-07
+Institute of Physics, University of Freiburg
 
+Date: 2010-04 -- 2010-07\\
 Tutors: Stefan Jansen, Daniel Kaschek, Julian Gehring\\
 Language: German
 
@@ -55,9 +55,9 @@ Language: German
 * Non-Invasive Measurement and Analysis Techniques in Neurobiology
   
 Practical course\\
-Department for Biology, University of Freiburg\\
-2008-08
+Department for Biology, University of Freiburg
 
+Date: 2008-08\\
 Tutor: Julian Gehring\\
 Language: German
 
