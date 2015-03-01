@@ -1,0 +1,64 @@
+#+TITLE: Teaching
+
+#+AUTHOR: Julian Gehring
+#+DESCRIPTION: Teaching of university courses in bioinformatics, systems biology, and computational neuroscience
+
+#+OPTIONS: creator:nil num:nil timestamp:t email:nil author:t html-postamble:nil
+#+STYLE: <link rel="stylesheet" type="text/css" href="worg.css" />
+
+
+* Introduction to Systems Biology
+
+Practical exercises as part of the lecture\\
+Department for Biology, University of Freiburg\\
+2011-02
+
+Tutor: Julian Gehring\\
+Language: English
+
+[[file:teaching/systems-biology_timmer_2011_chemotaxis_exercise.pdf][Modeling a chemotaxis system]]
+
+
+* Mathematics for Bioinformatics and Systems Biology
+  
+Practical exercises as part of the lecture\\
+Department for Biology, University of Freiburg\\
+2011-02, 2010-01
+
+Tutors: Julian Gehring, Marcel Mischnik (2011), Raphael Engesser (2010)\\
+Language: English
+
+[[file:teaching/systems-biology_timmer_2011_parameter-estimation_exercise.pdf][Parameter estimation]]
+
+
+* From Mathematical Biology to Systems Biology
+
+Practical exercises as part of the lecture\\
+Institute of Physics, University of Freiburg\\
+2010-04 -- 2010-07
+
+Tutors: Stefan Jansen, Daniel Kaschek, Julian Gehring\\
+Language: German
+
+- [[file:teaching/mathematical-biology_timmer_2010_exercise-00.pdf][Einführung in R]]
+- [[file:teaching/mathematical-biology_timmer_2010_exercise-01.pdf][Lotka-Volterra System]]
+- [[file:teaching/mathematical-biology_timmer_2010_exercise-02.pdf][Hamilton'sche Systeme, stochastisch gestört]]
+- [[file:teaching/mathematical-biology_timmer_2010_exercise-03.pdf][Infektionsmodelle]]
+- [[file:teaching/mathematical-biology_timmer_2010_exercise-04.pdf][FitzHugh-Nagumo Modell]]
+- [[file:teaching/mathematical-biology_timmer_2010_exercise-05.pdf][Regression]]
+- [[file:teaching/mathematical-biology_timmer_2010_exercise-06.pdf][Strukturbildung]]
+- [[file:teaching/mathematical-biology_timmer_2010_exercise-07.pdf][Enzymdynamik]]
+- [[file:teaching/mathematical-biology_timmer_2010_exercise-08.pdf][Metabolische Kontrol Analyse]]
+- [[file:teaching/mathematical-biology_timmer_2010_exercise-09.pdf][Kooperativer positiver Feedback]]
+
+
+* Non-Invasive Measurement and Analysis Techniques in Neurobiology
+  
+Practical course\\
+Department for Biology, University of Freiburg\\
+2008-08
+
+Tutor: Julian Gehring\\
+Language: German
+
+Data analysis of EEG/ECoG data
